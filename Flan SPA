@@ -1,0 +1,13 @@
+{
+ "ticker": "FLAN",                                                       # Mandatory
+ "poolId": "663994de529e370169cea87da4c5b5b997f8e1ba7ac718a92e60a998",  # Mandatory
+ "social": {                                                            # At least 1 Mandatory more optional
+   "twitter": "flantoshi",
+   "facebook": "",  
+   "instagram": " ",
+   "youtube": " "
+ },
+ "telegram": "flantoshi",                                             # Mandatory Personal Telegram Handle
+ "operatorName": "Flantoshi",                                   # Optional
+ "github": "flanpool"                                                     # Optional
+}
